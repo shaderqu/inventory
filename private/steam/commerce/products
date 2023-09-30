@@ -1,0 +1,18 @@
+{
+  "code": 0,
+  "message": "",
+  "name": "",
+  "items":
+    [
+      {
+        "id": 101,
+        "name": "sword",
+        "priceAmount": 1000
+      },
+      {
+        "id": 102,
+        "name": "shield",
+        "priceAmount": 1200
+      }
+    ]
+}
